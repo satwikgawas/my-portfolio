@@ -8,7 +8,7 @@ import Contact from "./components/Contact";
 
 const App = () => {
   return (
-    <div className="bg-[#0b1120] text-white min-h-screen items-center">
+    <div className="bg-[#0b1120] text-white min-h-screen pt-20">
       <Navbar />
       <Hero />
       <About />

@@ -3,7 +3,10 @@ import React from "react";
 const Hero = () => {
   return (
     <>
-      <section className="flex items-center justify-center h-100 px-16 gap-4">
+      <section
+        id="home"
+        className="flex items-center justify-center h-120 px-16 gap-4 py-20"
+      >
         <img
           src="/profile.jpg"
           alt="profile photo"
