@@ -7,7 +7,7 @@ const Hero = () => {
         <img
           src="/profile.jpg"
           alt="profile photo"
-          className="w-75 h-90 rounded-full object-cover border-4 border-blue-500"
+          className="w-70 h-90 rounded-full object-cover border-4 border-green-500"
         />
         <div>
           <h1 className="text-4xl font-bold">Hello, I'm</h1>

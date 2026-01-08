@@ -8,20 +8,22 @@ const Education = () => {
         <div className="space-y-4">
           <div className="bg-[#111827] p-5 rounded">
             <h3 className="font-semibold">
-              Master Of Computer Application(MCA)
+              Master Of Computer Application (MCA)
             </h3>
             <p className="text-gray-400">
               2019-2022 | Shivaji University Kolhapur
             </p>
           </div>
           <div className="bg-[#111827] p-5 rounded">
-            <h3 className="font-semibold">Bachelor Of Science(B.Sc)</h3>
+            <h3 className="font-semibold">Bachelor Of Science (B.Sc)</h3>
             <p className="text-gray-400">
               2016-2019 | Swami Vivekanand College Kolhapur
             </p>
           </div>
           <div className="bg-[#111827] p-5 rounded">
-            <h3 className="font-semibold">HSC</h3>
+            <h3 className="font-semibold">
+              Higher Secondary Certificate (HSC)
+            </h3>
             <p className="text-gray-400">
               2014-2016 | Gopal Krishna Gokhale College Kolhapur
             </p>
